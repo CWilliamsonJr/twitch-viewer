@@ -1,0 +1,65 @@
+.navbar {
+  background-color: black;
+}
+
+.navbar .h2 {
+  color: white;
+}
+
+.channel {
+  width: 300px;
+  height: 400px;
+  margin-left: 50px;
+  padding-left: 5px;
+  overflow: auto;
+}
+
+.preview_window {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 10em;
+}
+
+.preview_img,
+.preview_window {
+  height: 150px;
+  width: 180px;
+}
+
+preview {
+  margin-left: 20px;
+}
+
+body {
+  background-color: #6441A5;
+  color: white;
+}
+
+.bg-primary {
+  background-color: #6441A5;
+}
+
+.streamer {
+  margin-top: 0.1em;
+  font-size: 1.2em;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 51px;
+  background-color: black;
+  color: white;
+}
